@@ -63,7 +63,7 @@ To run this project locally, follow these steps:
    ```bash
    pip install -r requirements.txt
 
-3. MAKE SURE TO UNZIP THE 'dataset.zip'.
+3. MAKE SURE TO UNZIP THE 'Dataset.zip'.
     
 4. Run the Jupyter notebook:
    ```bash
