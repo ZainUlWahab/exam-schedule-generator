@@ -62,11 +62,14 @@ To run this project locally, follow these steps:
 2. Install the required Python packages:
    ```bash
    pip install -r requirements.txt
-   
-3. Run the Jupyter notebook:
+
+3. MAKE SURE TO UNZIP THE 'dataset.zip'.
+    
+4. Run the Jupyter notebook:
    ```bash
    jupyter notebook
-4. Open the Exams_Schedule_Generator.ipynb notebook and run the cells.
+   
+5. Open the Exams_Schedule_Generator.ipynb notebook and run the cells.
 
 ### Usage
 
