@@ -83,8 +83,7 @@ The notebook is designed to be modular and easy to adapt. You can modify the dat
 
 ### Contributions
 
-Contributions are welcome! If you have suggestions for improvements or find any issues, please feel free to submit a pull request or open an issue on GitHub.
-
+Contributions to this project are welcome! If you have suggestions for improvements or encounter any issues, please submit a pull request, open an issue on GitHub or you can contact me on my email 'ulwahabzain@gmail.com'.
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
