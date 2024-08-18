@@ -2,6 +2,19 @@
 
 This project aims to generate an optimal exam timetable for a set of courses and students using a genetic algorithm. The algorithm takes into account both hard and soft constraints to ensure the most efficient scheduling while maintaining fairness for students and teachers.
 
+# Table of Contents
+
+- [Project Overview](#project-overview)
+- [Dataset](#dataset)
+- [Genetic Algorithm](#genetic-algorithm)
+- [Constraints](#constraints)
+- [Jupyter Notebook](#jupyter-notebook)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Future Work](#future-work)
+- [Contributions](#contributions)
+- [License](#license)
+
 ## Project Overview
 
 The primary objective of this project is to find the best possible exam timetable by minimizing conflicts and adhering to predefined constraints. The optimization process is guided by a genetic algorithm, which iteratively improves the timetable based on a fitness function.
